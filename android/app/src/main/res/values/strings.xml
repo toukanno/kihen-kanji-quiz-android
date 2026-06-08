@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">木へん漢字クイズ</string>
+    <string name="title_activity_main">木へん漢字クイズ</string>
+    <string name="package_name">com.toukanno.kihenkanjiquiz</string>
+    <string name="custom_url_scheme">com.toukanno.kihenkanjiquiz</string>
+</resources>
